@@ -1,3 +1,9 @@
 
 # Big binaries
 resnet_export_model/*.h5
+full_resnet50_medicine/*.h5
+*.h5
+.ipynb_checkpoints/
+.DS_Store
+dataset/
+test-dataset/
