@@ -7,3 +7,8 @@ full_resnet50_medicine/*.h5
 .DS_Store
 dataset/
 test-dataset/
+.DS_Store
+.ipynb_checkpoints/
+*.h5
+dataset/
+test-dataset/
