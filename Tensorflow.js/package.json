@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@tensorflow/tfjs": "^4.22.0",
-    "formidable": "^3.5.2"
-  }
-}
