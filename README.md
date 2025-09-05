@@ -19,7 +19,7 @@ Medication errors remain a significant issue in healthcare, often caused by misi
 
 3. **Training & Validation**
    - Trained the model with transfer learning.
-   - Evaluated performance using accuracy, precision, recall, and F1-score.
+   - Evaluated performance using accuracy and loss.
 
 4. **Deployment Readiness**
    - Exported the trained model for reuse in healthcare-related applications.
@@ -32,7 +32,7 @@ Medication errors remain a significant issue in healthcare, often caused by misi
 - **Analytical Thinking** (model evaluation, error analysis)
 
 ## Results
-- Fine-tuned ResNet50 achieved strong classification performance (insert accuracy % once finalized).
+- Fine-tuned ResNet50 achieved strong classification performance of 96%.
 - Outperformed baseline CNN approaches in distinguishing between similar-looking pills.
 - Reduced misclassification risk compared to manual inspection.
 
